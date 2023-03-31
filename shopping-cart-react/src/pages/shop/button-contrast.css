@@ -1,0 +1,21 @@
+.lowContrast {
+    background-color: rgb(255, 92, 53);
+    border: 2px solid rgb(19, 19, 19);
+    color: white;
+  }
+  
+  .lowContrast:hover {
+    background-color: rgb(255,206,194);
+    color: rgb(19, 19, 19);
+  }
+  
+  .highContrast {
+    background-color: rgb(29, 12, 255);
+    border: 2px solid black;
+    color: white;
+  }
+  
+  .highContrast:hover {
+    background-color: rgb(183,198,255);
+    color: rgb(44,34,171);
+  }
